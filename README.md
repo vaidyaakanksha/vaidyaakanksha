@@ -2,6 +2,7 @@
 <h3 align="center">Exploring Code, One Algorithm at a Time</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaidyaakanksha&label=Profile%20views&color=0e75b6&style=flat" alt="vaidyaakanksha" /> </p>
+<img align="right" alt="coding" width ="400" src="https://github.com/vaidyaakanksha/vaidyaakanksha/blob/main/OSFi.gif">
 
 - 🔭 I’m currently working on [Seed Quality Detection](https://github.com/vaidyaakanksha/seeddetection)
 
